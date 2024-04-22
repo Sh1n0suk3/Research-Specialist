@@ -25,7 +25,7 @@ Research Specialist has the right to terminate or suspend your access to use our
 By using Research Specialist, you agree to indemnify, defend, and hold us harmless against all claims, liabilities, and expenses.
 
 ### 9. Contact Information:
-If you have any questions about these Terms of Service, please reach out to the Research Specialist team via email at bmk77778888@gmail.com.
+If you have any questions about these Terms of Service, please reach out to the Research Specialist team via email at sh1n0suk3.researchspecialist@gmail.com.
 
 # Privacy Policy for Research Specialist
 
@@ -61,7 +61,7 @@ From time to time, we may review this policy and any changes will be communicate
 
 ### Contact Information
 
-Have any questions or concerns? Please get in touch with the Research Specialist team via email at bmk77778888@gmail.com.
+Have any questions or concerns? Please get in touch with the Research Specialist team via email at sh1n0suk3.researchspecialist@gmail.com.
 
 
 
