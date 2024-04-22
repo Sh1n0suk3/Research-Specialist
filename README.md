@@ -36,6 +36,7 @@ If you have any questions about these Terms of Service, please reach out to the 
 
 1.	User IDs: Research Specialist collects User IDs to provide personalized experiences. Your ID is used to track your use of the bot and manage the services offered to you.
 2.	Server IDs: Research Specialist collects Server IDs to manage services offered to the server. The server ID helps us maintain the performance of the bot in every server where it is installed.
+3.  Message Content: When using Research Specialist, we may collect message content, including the text of your conversations in Discord channels. This data is primarily used to respond to user requests and to enhance the functionality of our bot, ensuring more tailored and accurate interaction. Once Research Specialist has responded to the request, the collected messages are automatically deleted from our system. We do not use the content of these messages for any other purpose, nor do we share them with any third party.
 
 ### We do not collect:
 
