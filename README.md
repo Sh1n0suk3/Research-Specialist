@@ -27,4 +27,40 @@ By using Research Specialist, you agree to indemnify, defend, and hold us harmle
 ### 9. Contact Information:
 If you have any questions about these Terms of Service, please reach out to the Research Specialist team via email at bmk77778888@gmail.com.
 
+# Privacy Policy for Research Specialist
+
+## This privacy policy explains how Research Specialist collects, uses, and safeguards the information of Discord users when they interact with our bot.
+
+### Information We Collect:
+
+
+1.	User IDs: Research Specialist collects User IDs to provide personalized experiences. Your ID is used to track your use of the bot and manage the services offered to you.
+2.	Server IDs: Research Specialist collects Server IDs to manage services offered to the server. The server ID helps us maintain the performance of the bot in every server where it is installed.
+
+### We do not collect:
+
+
+1.	Personal information. Any information that could identify you outside of Discord is not required, and therefore not stored.
+
+### Use of Information
+
+We use your information to provide, improve, and secure the bot's services. We also use it to track server-specific settings and ensure appropriate feature offerings.
+
+### Disclosure of Your Information
+
+Since your privacy is our utmost priority, we do not make your data available to any third-party service providers. We only use your data for the functioning and betterment of Research Specialist.
+
+### Security of Your Information
+
+We store your information on secure servers and use encryption and secure protocols to prevent unauthorized access of your data.
+
+### Changes to This Privacy Policy
+
+From time to time, we may review this policy and any changes will be communicated on our main bot communication channel in Discord.
+
+### Contact Information
+
+Have any questions or concerns? Please get in touch with the Research Specialist team via email at bmk77778888@gmail.com.
+
+
 
