@@ -24,7 +24,10 @@ Research Specialist has the right to terminate or suspend your access to use our
 ### 8. Indemnification:
 By using Research Specialist, you agree to indemnify, defend, and hold us harmless against all claims, liabilities, and expenses.
 
-### 9. Contact Information:
+### 9. Service Limitations/Disruptions:
+Sometimes, services may get disrupted due to maintenance, unforeseen circumstances, or events outside of your control. Clarifying this dictates expectations for users.
+
+### 10. Contact Information:
 If you have any questions about these Terms of Service, please reach out to the Research Specialist team via email at sh1n0suk3.researchspecialist@gmail.com.
 
 # Privacy Policy for Research Specialist
@@ -54,6 +57,21 @@ Since your privacy is our utmost priority, we do not make your data available to
 ### Security of Your Information
 
 We store your information on secure servers and use encryption and secure protocols to prevent unauthorized access of your data.
+
+### Data Retention Policy
+
+We take your privacy very seriously. All personal information stored within the Research Specialist will be automatically purged after a period of 30 days from the time of data collection. This measure is put in place to maximize protection of your personal data and uphold your privacy. Please note that removal does not include instances where the information would be retained due to legal compliance.
+
+### User Rights
+
+As a user, you have the right to:
+a. Access - You have the right to ask us to access the personal information we hold about you.
+b. Correct - You have the right to have your personal information rectified if it is inaccurate or incomplete.
+c. Erase - You have the right to request that we delete or remove your personal information from our systems.
+d. Restrict - You have the right to 'block' us from using your personal information or limit the way in which we can use it.
+e. Object - You have the right to object to our use of your personal information including where we use it for our legitimate interests or where we use your personal information to carry out profiling to inform our market research.
+f. Portability - You have rights in relation to automated decision making and profiling.
+Should you wish to exercise any of these rights, please contact us at sh1n0suk3.researchspecialist@gmail.com.
 
 ### Changes to This Privacy Policy
 
