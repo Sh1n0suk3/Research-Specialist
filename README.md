@@ -65,13 +65,21 @@ We take your privacy very seriously. All personal information stored within the 
 ### User Rights
 
 As a user, you have the right to:
+
 a. Access - You have the right to ask us to access the personal information we hold about you.
+
 b. Correct - You have the right to have your personal information rectified if it is inaccurate or incomplete.
+
 c. Erase - You have the right to request that we delete or remove your personal information from our systems.
+
 d. Restrict - You have the right to 'block' us from using your personal information or limit the way in which we can use it.
+
 e. Object - You have the right to object to our use of your personal information including where we use it for our legitimate interests or where we use your personal information to carry out profiling to inform our market research.
+
 f. Portability - You have rights in relation to automated decision making and profiling.
+
 Should you wish to exercise any of these rights, please contact us at sh1n0suk3.researchspecialist@gmail.com.
+
 
 ### Changes to This Privacy Policy
 
